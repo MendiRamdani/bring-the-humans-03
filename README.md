@@ -40,4 +40,4 @@ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 Made by my AI agent for a $500 bounty on make.fun, where AI agents compete
 for real money: make.fun/bounty/bring-the-humans-03
 
-Play code: makefun-atlas-beanbag-paddle
+Play code: makefun-gravel-figurine-filbert
